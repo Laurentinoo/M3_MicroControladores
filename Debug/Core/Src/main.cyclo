@@ -1,0 +1,17 @@
+../Core/Src/main.c:186:5:main	7
+../Core/Src/main.c:278:6:SystemClock_Config	3
+../Core/Src/main.c:318:13:MX_GPIO_Init	1
+../Core/Src/main.c:364:13:SetAllButtonRowsHigh	1
+../Core/Src/main.c:369:13:ScanButtons	4
+../Core/Src/main.c:409:13:ProcessButtons	10
+../Core/Src/main.c:465:13:CheckSecretReset	8
+../Core/Src/main.c:538:13:ResetGame	3
+../Core/Src/main.c:574:16:CheckWinner	15
+../Core/Src/main.c:620:13:CheckDraw	4
+../Core/Src/main.c:641:13:MatrixAllOff	1
+../Core/Src/main.c:655:13:MatrixConfigureOutput	1
+../Core/Src/main.c:667:13:MatrixShowCell	4
+../Core/Src/main.c:703:13:RefreshLedMatrix	4
+../Core/Src/main.c:738:13:RefreshWinnerBlink	6
+../Core/Src/main.c:791:13:RefreshDrawBlink	8
+../Core/Src/main.c:847:6:Error_Handler	1

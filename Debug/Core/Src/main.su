@@ -1,0 +1,17 @@
+../Core/Src/main.c:186:5:main	8	static
+../Core/Src/main.c:278:6:SystemClock_Config	72	static
+../Core/Src/main.c:318:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:364:13:SetAllButtonRowsHigh	8	static
+../Core/Src/main.c:369:13:ScanButtons	16	static
+../Core/Src/main.c:409:13:ProcessButtons	16	static
+../Core/Src/main.c:465:13:CheckSecretReset	16	static
+../Core/Src/main.c:538:13:ResetGame	16	static
+../Core/Src/main.c:574:16:CheckWinner	16	static
+../Core/Src/main.c:620:13:CheckDraw	16	static
+../Core/Src/main.c:641:13:MatrixAllOff	24	static
+../Core/Src/main.c:655:13:MatrixConfigureOutput	32	static
+../Core/Src/main.c:667:13:MatrixShowCell	32	static
+../Core/Src/main.c:703:13:RefreshLedMatrix	24	static
+../Core/Src/main.c:738:13:RefreshWinnerBlink	16	static
+../Core/Src/main.c:791:13:RefreshDrawBlink	16	static
+../Core/Src/main.c:847:6:Error_Handler	4	static,ignoring_inline_asm
